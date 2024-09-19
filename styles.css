@@ -1,0 +1,139 @@
+.heading{
+    
+    border: 20px solid black;
+    background-color: #000000;
+    margin-right: -30px;
+}
+
+.home-button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-left: 1100px;
+    transition: opacity 1s;
+    font-size: 11px;
+    border: none;
+
+}
+
+.home-button:hover{
+    opacity: 0.4;
+
+}
+
+.about-button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: opacity 1s;
+    margin-left: 20px;
+    font-size: 11px;
+    border: none;
+}
+
+.about-button:hover{
+    opacity: 0.4;
+}
+.projects-button{
+    background-color: #000000;
+    color: white;
+    cursor: pointer;
+    transition: opacity 1s;
+    margin-left: 20px;
+    font-size: 11px;
+    border: none;
+}
+
+.projects-button:hover{
+    opacity: 0.4;
+}
+
+.contact-button{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: opacity 1s;
+    margin-left: 20px;
+    font-size: 11px;
+    border: none;
+}
+
+.contact-button:hover{
+    opacity: 0.4;
+}
+
+#computer{
+    width: 1500px;
+    height: 337px;
+    object-fit: auto;
+    /* object-fit: cover; */
+    margin-left:50px;
+    }
+.background-picture{
+    position: relative;
+}
+#text-brian{
+    padding:15px;
+    max-width: 500px;
+    position:absolute;
+    bottom: 0;
+    left:30px;
+    font-size: 30px;
+}
+
+#software-text{
+    /* padding:15px; */
+    padding-left: 15px;
+    max-width: 500px;
+    position:absolute;
+    bottom: 0;
+    left:31px;
+    font-size: 25px;
+}
+
+#about-me{
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 100px;
+
+}
+
+#user-profile img{
+    border-radius: 200px;
+    margin-left: 625px; 
+}
+
+#bio {
+  text-align: center;
+  font-size: 14px;
+  margin-left: 100px;
+  padding-left: 100px;
+  padding-right: 200px;
+}
+
+#section3{
+    background-color:rgb(214, 214, 214);
+    /* border: 300px solid rgb(214, 214, 214); */
+    width: 70%;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#gray{
+    text-align: center;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#red img {
+    
+    width: 400px;
+    height: 200px;
+    /* margin-left: 300px; */
+    flex-direction: row;
+}
+    
+
+    
